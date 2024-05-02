@@ -5,12 +5,7 @@ date: 2018-03-03
 layout: post
 tags: [Finnland, train, world]
 ---
-I was on secondment in 2015 to the international team of a Ministry to
-which my organization was subordinate. At the end of April of that year,
-a delegation of a counterpart ministry of Finland was visiting us. The delegation was headed by a Director
-General. I was responsible for escorting them through their visit. After
-official visits in Beijing, I was supposed to take them to Nanjing and
-Shanghai where they were leaving.
+I was on secondment in 2015 to the international team of a Ministry to which my organization was subordinate. At the end of April of that year, a delegation of a counterpart ministry of Finland was visiting us. The delegation was headed by a Director General. I was responsible for escorting them through their visit. After official visits in Beijing, I was supposed to take them to Nanjing and Shanghai where they were leaving.
 
 At that time, high speed trains of our country had already gained
 international fame. When planning the trip, the Finnish delegation

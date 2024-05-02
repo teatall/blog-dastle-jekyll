@@ -6,8 +6,7 @@ date: 2018-03-04
 tags: [transparency, flight, world]
 ---
 
-I once commuted between Nanjing and Beijing continuously for 15 months.
-At the beginning, 4 hours spent on the high
+I once commuted between Nanjing and Beijing continuously for 15 months. At the beginning, 4 hours spent on the high
 speed train was acceptable. It was after 12 months or so when I stated
 to found it intolerable because of the noise and small space. So later I
 switched to flights for the trip because the duration in a small space
