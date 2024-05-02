@@ -7,7 +7,7 @@ pagination:
     before: 2 # The number of links before the current page
     after: 2  # The number of links after the current page
 ---
-<div class="infinite-scroll-container list-group list-group-flush">
+<div class="post-list-container list-group list-group-flush mb-4">
 	{% for post in paginator.posts %}
 	<article class="post list-group-item px-0">
 		<h2><a class="text-decoration-none" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
