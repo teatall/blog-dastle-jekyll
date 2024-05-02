@@ -19,7 +19,7 @@ station. I went out the station and managed to Yelped a popular
 restaurant which served local food.
 
 ![Union Station in the
-evening](https://user-images.githubusercontent.com/7418648/56807582-33961d80-6827-11e9-89f5-bd176585ca74.jpg)It
+evening](/assets/img/56807582-33961d80-6827-11e9-89f5-bd176585ca74.jpg)It
 might be still too early for dinner so there were not too many guests. A
 beautiful waitress greeted me and took me to a table next to the window.
 
