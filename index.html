@@ -33,8 +33,8 @@ pagination:
 		{% endif %}
 		{% if paginator.page_trail %}
 			{% for trail in paginator.page_trail %}
-				<li {% if page.url == trail.path %}class="selected"{% endif %}>
-					<a href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+				<li {% if page.url == trail.path %}class="page-item active"{% else %}class="page-item"{% endif %}>
+					<a class="page-link" href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
 				</li>
 			{% endfor %}
 		{% endif %}
