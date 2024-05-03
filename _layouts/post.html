@@ -12,3 +12,10 @@ layout: default
 <main class="post clearfix">
   {{ content }}
 </main>
+<div id="tcomment" class="my-3 twikoo-comments"></div>
+<script>
+  twikoo.init({
+    envId: 'blog-comments.dastle.top',
+    el: '#tcomment',
+  })
+  </script>
