@@ -9,9 +9,9 @@ $(document).ready(function() {
     var imageCaption = $(this).attr("alt");
     var imageSRC = $(this).attr("src");
     if (imageCaption == null) {
-      $("<div class='card-body'><small class='card-text'><i>Caption not available</i><a class='mg-popup ml-1 text-secondary' title='Caption not available' href='" + imageSRC + "'><i class='icon-magnifier'></i></a></small></div>").insertAfter(this);
+      $("<div class='card-body'><small class='card-text'><i>Caption not available</i><a class='mg-popup ml-1 text-secondary' title='Caption not available' href='" + imageSRC + "'><i class='fi fi-zoom-in ml-1'></i></a></small></div>").insertAfter(this);
     } else {
-      $("<div class='card-body'><small class='card-text' role='note'>" + imageCaption + "<a class='mg-popup ml-1 text-secondary' href='" + imageSRC + "' title='" + imageCaption + "'><i class='icon-magnifier'></i></a></small></div>").insertAfter(this);
+      $("<div class='card-body'><small class='card-text' role='note'>" + imageCaption + "<a class='mg-popup ml-1 text-secondary' href='" + imageSRC + "' title='" + imageCaption + "'><i class='fi fi-zoom-in ml-1'></i></a></small></div>").insertAfter(this);
     }
   });
 

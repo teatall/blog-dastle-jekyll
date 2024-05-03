@@ -4,9 +4,9 @@ layout: default
 <h1 class="hyphenate">{{ page.title }}</h1>
 <hr>
 <ul class="list-inline text-truncate text-muted small meta">
-  <li class="list-inline-item author"><i class="icon-user mr-1"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</li>
-  <li class="list-inline-item time"><i class="icon-calendar mr-1"></i>{{ page.date | date_to_string }}</li>
-  {% if page.tags.size > 0 %}<li class="list-inline-item time"><i class="icon-tag mr-1"></i>{{ page.tags | sort | join: ", " }}</li>{% endif %}
+  <li class="list-inline-item author"><i class="fi fi-user mr-1"></i>{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</li>
+  <li class="list-inline-item time"><i class="fi fi-calendar mr-1"></i>{{ page.date | date_to_string }}</li>
+  {% if page.tags.size > 0 %}<li class="list-inline-item time"><i class="fi fi-tag mr-1"></i>{{ page.tags | sort | join: ", " }}</li>{% endif %}
 </ul>
 <hr>
 <main class="post clearfix">
