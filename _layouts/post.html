@@ -12,7 +12,10 @@ layout: default
 <main class="post clearfix">
   {{ content }}
 </main>
-<div id="tcomment" class="my-3 twikoo-comments"></div>
+<div class="twikoo-comments-wrap larger-inputs">
+  <h2 class="mt-5 text-primary">Comments</h2>
+  <div id="tcomment"></div>
+</div>
 <script>
   twikoo.init({
     envId: 'https://blog-comments.dastle.top',
