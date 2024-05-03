@@ -20,18 +20,18 @@ A perfect photo for the occation suddenly appeared online.
 
 Under an apartment building in Wuhan, someone wrote two big Chinese characters on the snow:
 
-![A screenshot of the post by @chinanewsv (Chinanews.com) on Weibo.com, saying the photo was captured in Wuhan.](https://user-images.githubusercontent.com/7418648/74727419-18940e80-527c-11ea-8fb8-a24db15d198d.jpg)"_Zhong Guo!_" (means China).
+![A screenshot of the post by @chinanewsv (Chinanews.com) on Weibo.com, saying the photo was captured in Wuhan.](/assets/img/74727419-18940e80-527c-11ea-8fb8-a24db15d198d.jpg)"_Zhong Guo!_" (means China).
 
 On top of it rested a tightly clenched fist (a sign of strength in China).
 
 
 The source of the information is Chinanews.com. It's a major media organisation based in Beijing. The photo is credited to a photographer called Zhang Chang. He risked his life to capture this precious moment of China. His bravery should be admired.
 
-![A screenshot of Weifang Daily, a local news agency of Weifang in Shandong Province, saying the photo was captured in an appartment block of Shouguang of Weifang](https://user-images.githubusercontent.com/7418648/74727415-1762e180-527c-11ea-866c-d607c689851b.jpg)As I was almost moved into tears, another post by _Wei Fang Jin Ri_ (_Weifang Daily_, a local news agency of Weifang in Shandong Province) almost shocked my jaw off.
+![A screenshot of Weifang Daily, a local news agency of Weifang in Shandong Province, saying the photo was captured in an appartment block of Shouguang of Weifang](/assets/img/74727415-1762e180-527c-11ea-866c-d607c689851b.jpg)As I was almost moved into tears, another post by _Wei Fang Jin Ri_ (_Weifang Daily_, a local news agency of Weifang in Shandong Province) almost shocked my jaw off.
 
 Hey, Zhang Chang the photographer, somebody is pirating your work!
 
-![Another Weibo post claiming that the photo was taken in Dalian of Liaoning Province and a female teacher painted it](https://user-images.githubusercontent.com/7418648/74727412-16ca4b00-527c-11ea-90b3-6d623644a5a4.jpg)As I scroll on, the same photo appeared again and was claimed to be captured in another appartment block of Liaoning Province. They even told people the profession of the people who made the painting to be realistic.
+![Another Weibo post claiming that the photo was taken in Dalian of Liaoning Province and a female teacher painted it](/assets/img/74727412-16ca4b00-527c-11ea-90b3-6d623644a5a4.jpg)As I scroll on, the same photo appeared again and was claimed to be captured in another appartment block of Liaoning Province. They even told people the profession of the people who made the painting to be realistic.
 
 I figured this must be the parallel unverses.
 
@@ -39,7 +39,7 @@ The civilian detectives soon worked it out. Only one of the appartments had air-
 
 The professionals were analysing the snow cover on the road. Snow in South China cannot be this dry, and it could not be melting in Northeast China. The snow cover was thin and melting at the edge, so it must be in Shandong!
 
-![A netizen found a street photo which matched the look](https://user-images.githubusercontent.com/7418648/74727411-1631b480-527c-11ea-8352-96ade48e182f.jpeg)Relying on the power of technology, another netizen found a street photo and came up with a conclusion: it was indeed Shandong!
+![A netizen found a street photo which matched the look](/assets/img/74727411-1631b480-527c-11ea-8352-96ade48e182f.jpeg)Relying on the power of technology, another netizen found a street photo and came up with a conclusion: it was indeed Shandong!
 
 Now someone have secretly deleted their posts. There seemed to be some virtual slaps on the face of Zhang Chang the photographer.
 
@@ -47,7 +47,7 @@ During a disarster, it's very normal for the media to cover some positive news i
 
 Coincidentally there are more cases like this.
 
-![A screenshot of the search results from Baidu.com for "run away after leaving behind 10000 yuan", with many entries coming up covering same news happening at different places](https://user-images.githubusercontent.com/7418648/74727410-15008780-527c-11ea-831b-df3a08e98689.jpg)Recently if you search on Baidu.com (a Chinese search engine) "run away after leaving behind 10000 _yuan_"<sup>3</sup>, you would be amazed by how rich the Chinese people have become and how fast they could run.
+![A screenshot of the search results from Baidu.com for "run away after leaving behind 10000 yuan", with many entries coming up covering same news happening at different places](/assets/img/74727410-15008780-527c-11ea-831b-df3a08e98689.jpg)Recently if you search on Baidu.com (a Chinese search engine) "run away after leaving behind 10000 _yuan_"<sup>3</sup>, you would be amazed by how rich the Chinese people have become and how fast they could run.
 
 Nobody knows why it had to be 10000 _yuan_. Anyhow it seemed that people all over the country has joined the game of leaving money behind. The protagonist could be an old people over 80 or a child around 10, but they were all fast-paced and had perfect skills of leaving no evidence of their identity. They could escape from the police's hunt, leaving behind also a mysterious back.
 
@@ -76,9 +76,9 @@ For those who have forgotten the previous scenes, let's fill you up a little bit
 
 On the date, 11 February, when the article was published on _Han Wang_, the confirmed cases in Wuhan had already reached 42,708. The internet had already been filled with desperate calls for help of Wuhan citizens.
 
-![A girl was found striking a kong in her balcony for help for her sick mother](https://user-images.githubusercontent.com/7418648/74727405-1467f100-527c-11ea-818a-efaa8febc8c8.jpg)A girl, whose sick mother was rejected by hospitals for lack of beds, had to strike a kong on her balcony for help. What a desperate scene.
+![A girl was found striking a kong in her balcony for help for her sick mother](/assets/img/74727405-1467f100-527c-11ea-818a-efaa8febc8c8.jpg)A girl, whose sick mother was rejected by hospitals for lack of beds, had to strike a kong on her balcony for help. What a desperate scene.
 
-![Screenshot of the article of Yang Jian, a columnist of cnhan.com, on which the underlined part says "I ... saw the tired eyes of the mayor, through which I also saw firm will which is so touching. When a person in a high position as him is striving hard against the epidemic, why don't we stop critising and try to warm his heart?"](https://user-images.githubusercontent.com/7418648/74727402-13cf5a80-527c-11ea-802a-0e3a79192cce.jpeg)To Mr. Zhou Xianwang, mayor of Wuhan, people were filled with discontent and fury. However, Yang Jian, a columnist of _Han Wang_ decided to speak up for Mr. Zhou:
+![Screenshot of the article of Yang Jian, a columnist of cnhan.com, on which the underlined part says "I ... saw the tired eyes of the mayor, through which I also saw firm will which is so touching. When a person in a high position as him is striving hard against the epidemic, why don't we stop critising and try to warm his heart?"](/assets/img/74727402-13cf5a80-527c-11ea-802a-0e3a79192cce.jpeg)To Mr. Zhou Xianwang, mayor of Wuhan, people were filled with discontent and fury. However, Yang Jian, a columnist of _Han Wang_ decided to speak up for Mr. Zhou:
 
 > I [...] saw the tired eyes of the mayor, through which I also saw firm will which is so touching. When a person in a high position as him is striving hard against the epidemic, why don't we stop critising and try to warm his heart?
 
@@ -90,7 +90,7 @@ What are the following scenes?
 
 On 13 February, the leaders of both Wuhan, the municpality, and Hubei, the province, were both replaced. The CCP secretaries of both the municipality and the province were taken down. As soon as they left, the local media of Hubei changed their faces.
 
-![A local news anchor of Wuhan critising the inaction of former leaders as "the old three" actions](https://user-images.githubusercontent.com/7418648/74742851-53a53a80-529a-11ea-8ba8-c4b6a5aa9a43.jpg)They stopped warming their hearts. The anchors put on a stern face and started critising the former leaders harshly.
+![A local news anchor of Wuhan critising the inaction of former leaders as "the old three" actions](/assets/img/74742851-53a53a80-529a-11ea-8ba8-c4b6a5aa9a43.jpg)They stopped warming their hearts. The anchors put on a stern face and started critising the former leaders harshly.
 
 > At crucial moments concerning human lives, they were still taking their time in taking "the old three actions" of putting up notices, filling up forms and reporting information. As if these would stop the epidemic from spreading.
 
@@ -118,11 +118,11 @@ _People's Daily_ reported without validation that _Shuang Huang Lian_<sup>8</sup
 
 Some misinformed.
 
-![A screenshot of the video interview of Prof. Li Lanjuan, a epidemiologist, on which the caption says pets are also vulnerable to the virus.](https://user-images.githubusercontent.com/7418648/74727397-12059700-527c-11ea-9703-471c7bfc62fe.jpg)China.com.cn edited a video interview of Prof. Li Lanjuan, a epidemiologist, which misinformed the public about the possibility of pets getting infected. This caused many pet dogs/cats to be burried alive.
+![A screenshot of the video interview of Prof. Li Lanjuan, a epidemiologist, on which the caption says pets are also vulnerable to the virus.](/assets/img/74727397-12059700-527c-11ea-9703-471c7bfc62fe.jpg)China.com.cn edited a video interview of Prof. Li Lanjuan, a epidemiologist, which misinformed the public about the possibility of pets getting infected. This caused many pet dogs/cats to be burried alive.
 
 Some are doubly guilty for calling black white.
 
-![Yangtze Daily, a local news agency in Wuhan, put a "rumour" label on a Weibo post, which was a plea for help from people from the Baibuting community of Wuhan](https://user-images.githubusercontent.com/7418648/74727393-10d46a00-527c-11ea-8651-7c69255419d9.jpeg)_Chang Jiang Ri Bao_ (_Yangtze Daily_) labeled Weibo posts of citizens calling for help as "rumours". This caused the pleas for help from _Baibuting_<sup>9</sup> ignored and the community became an isolated island.
+![Yangtze Daily, a local news agency in Wuhan, put a "rumour" label on a Weibo post, which was a plea for help from people from the Baibuting community of Wuhan](/assets/img/74727393-10d46a00-527c-11ea-8651-7c69255419d9.jpeg)_Chang Jiang Ri Bao_ (_Yangtze Daily_) labeled Weibo posts of citizens calling for help as "rumours". This caused the pleas for help from _Baibuting_<sup>9</sup> ignored and the community became an isolated island.
 
 The list could continue if I wish. But after seeing all these, I cannot feel worried about the media of the country.
 
@@ -130,7 +130,7 @@ I would recommend regular medical checks for employees of the media industry. Th
 
 As the epidemic spreads, the Japanese government has announced today that it has entered an early stage of a epidemic.
 
-![Screenshot of an NHK documentary on the virus](https://user-images.githubusercontent.com/7418648/74745935-974e7300-529f-11ea-81f8-57ff6306118a.jpeg)Yet as early as 9 February, NHK has published a 54 minute documentary. The caption says: we are telling everyone all the known and unknown facts of the virus.
+![Screenshot of an NHK documentary on the virus](/assets/img/74745935-974e7300-529f-11ea-81f8-57ff6306118a.jpeg)Yet as early as 9 February, NHK has published a 54 minute documentary. The caption says: we are telling everyone all the known and unknown facts of the virus.
 
 What a shame, I am learning the situation in China through Japanese media.
 
@@ -140,7 +140,7 @@ There is too much to reflect on, the regulation of the society, the control of d
 
 News of today is history of tomorrow.
 
-![A news coverage of a medical personel who volunteered to help. The first highlighted part says the twin boys are less than 20 days old, while the second highlighted part says the boys asked their father "where is mom" after his wife left.](https://user-images.githubusercontent.com/7418648/74727385-0e721000-527c-11ea-8b6e-e722da2814a5.jpg)Who would know that, in a magic year of 2020, instead of truth and virtue, what we are leaving the future generations are meaningless sacrifice, hypocritic heros, and what's more, a fallacy of babies speaking human language when they are only 20 days old.
+![A news coverage of a medical personel who volunteered to help. The first highlighted part says the twin boys are less than 20 days old, while the second highlighted part says the boys asked their father "where is mom" after his wife left.](/assets/img/74727385-0e721000-527c-11ea-8b6e-e722da2814a5.jpg)Who would know that, in a magic year of 2020, instead of truth and virtue, what we are leaving the future generations are meaningless sacrifice, hypocritic heros, and what's more, a fallacy of babies speaking human language when they are only 20 days old.
 
 ## Notes
 

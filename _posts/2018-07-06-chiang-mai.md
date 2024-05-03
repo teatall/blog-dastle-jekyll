@@ -12,7 +12,7 @@ It was February 3, 2018 and China Southern Airlines again did not
 disappoint me with a delay of flight. I was scheduled to arrive a bit
 after lunch but was not there until rush hour after work.![An iconic
 songthaew in front of a Wat. Feb. 7,
-2016](https://user-images.githubusercontent.com/7418648/56807279-478d4f80-6826-11e9-8dfc-d1a09d40773b.jpg)
+2016](/assets/img/56807279-478d4f80-6826-11e9-8dfc-d1a09d40773b.jpg)
 
 As the airport was not far away from the place where I was going to
 stay, I jumped on a taxi as soon as I got out of the airport. I switched
@@ -27,7 +27,7 @@ call my own phone. But before that I will have to get my own number
 first. It took quite a while before my mom send my correct Thailand
 number. So I made a call and the taxi driver quickly picked
 up.![Visiting my beloved city a second time. Jun. 1,
-2017](https://user-images.githubusercontent.com/7418648/56807278-478d4f80-6826-11e9-89a8-e0b06852b608.jpg)
+2017](/assets/img/56807278-478d4f80-6826-11e9-89a8-e0b06852b608.jpg)
 
 He was very kind to offer to take my phone back, but it was rush hour
 and he was heading back home some distance away so he would have to do

@@ -13,7 +13,7 @@ before Christmas so the celebratory atmosphere was obvious, and traffic
 on the express way was really heavy. ![The Christmas tree in front of
 the Munich city hall. It was just before Christmas so celebratory
 atmosphere was
-obvious.](https://user-images.githubusercontent.com/7418648/56807401-976c1680-6826-11e9-843c-751040173d1b.jpg)
+obvious.](/assets/img/56807401-976c1680-6826-11e9-843c-751040173d1b.jpg)
 
 I was a bit surprised when the driver slowed down and stopped. The
 German express ways did not have any upper limit for speed so we were

@@ -12,7 +12,7 @@ to found it intolerable because of the noise and small space. So later I
 switched to flights for the trip because the duration in a small space
 was shortened for half and, most of all, much quieter. ![The most uncomfortable thing is that they try to keep no transparency
 of
-information.](https://user-images.githubusercontent.com/7418648/56807497-ed40be80-6826-11e9-913a-c745116fc59c.jpg)
+information.](/assets/img/56807497-ed40be80-6826-11e9-913a-c745116fc59c.jpg)
 
 My flight to Beijing was delayed again today and there was no
 information to the exact time when it was going to take off. Airline

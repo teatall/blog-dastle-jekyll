@@ -125,7 +125,7 @@ drizzle of Frankfurt.
 ![After boarding the Boeing 777-300er registered as B-2088 at Frankfurt
 in a drizzle, the Airbus A350-900 of Qatar Airways was visible through
 my
-window.](https://user-images.githubusercontent.com/7418648/56807450-c1253d80-6826-11e9-8f9f-8cef6cda7f36.jpg)
+window.](/assets/img/56807450-c1253d80-6826-11e9-8f9f-8cef6cda7f36.jpg)
 
 My colleague was much luckier.
 ------------------------------
