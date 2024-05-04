@@ -258,7 +258,7 @@ a:hover {
 	padding: 6px 12px;
 }
 
-.twikoo-comments-wrap.larger-inputs .el-input--small .el-textarea__inner {
+.twikoo-comments-wrap.larger-inputs .el-textarea .el-textarea__inner {
 	font-size: 1rem;
 	padding: 6px 12px;
 }
